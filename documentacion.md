@@ -30,7 +30,7 @@ Podemos estructurar en los siguientes apartados
 * Proyecto
   * Definición del proyecto: su alcance y objetivos educativos.
   * Arquitectura del sistema: componentes. Evaluación del costo.
-  * Búsqueda de ejmpleos y librerías necesarias.
+  * Búsqueda de ejemplos y librerías necesarias.
   * Montaje
   * Pruebas
   * Documentación
