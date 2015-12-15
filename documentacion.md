@@ -10,20 +10,38 @@ Los docentes no son ajenos a este atractivo, y son conscientes de lo atractivo q
 
 ## Objetivos
 
-El objetivo del presente curso introducirnos en el uso de plataformas robótica de diferentes tipo. Para ello utilizaremos de forma totalmente práctica dos robots entendiendo su estructura y aprendiendo a realizar movimientos programados con ellos.
+El objetivo del presente curso es el utilizar estas herramientas para realizar diferentes proyectos educativos.
 
-Para ello utilizaremos modelos avanzados de arduinoque propociona una plataforma de mayor capacidad para desarrollar el control necesario en estos sistemas
+Al inicio del curso se realizará un repaso sobre las principales características de esta plataforma:
 
-* Conceptos básicos de robótica: Sensores y actuadores.
+* Conceptos básicos de robótica: Control de Sensores y actuadores.
 * Estructura de un robot y sus movimientos: grados de libertad y trayectorias.
-* Cinemática, definiendo trayectorias.
 * Control de robots con arduino.
 * Ejemplos prácticos
 
 ## Temario
 
 Podemos estructurar en los siguientes apartados
+
+* Breve repaso del uso de Arduino
 * Introducción a la robótica
-* Introducción a Arduino
-* Control de robots con arduino
-* Ejemplos prácticos
+  * Control de robots con arduino
+* Ejemplos prácticos de proyectos
+* Proyecto
+  * Definición del proyecto: su alcance y objetivos educativos.
+  * Arquitectura del sistema: componentes. Evaluación del costo.
+  * Búsqueda de ejmpleos y librerías necesarias.
+  * Montaje
+  * Pruebas
+  * Documentación
+
+
+
+## Metodología
+
+Dado que el objetivo del curso es que los docentes desarrollen sus propios proyectos, en cada sesión, tras una breve introducción teórica de los conceptos, se propondrá a los asistentes distintos retos, que les ayudarán a ir definiendo su proyecto a la vez que avanzan en su desarrollo.
+
+
+## Evaluación
+
+A lo largo del curso se realizará un seguimiento del trabajo de los asistentes, ayudándoles en la consecución de los retos propuestos
