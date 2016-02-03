@@ -41,4 +41,8 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 [Estación meteorológica](./EstacionMeteo.md)
 
 * * *
+
+[Coche controlado con móvil](./cochemovil.md)
+
+* * *
 [Elementos comunes](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/comunes.md)
