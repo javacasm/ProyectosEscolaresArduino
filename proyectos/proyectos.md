@@ -20,6 +20,8 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 
 [Hexapodo](./Hexapodo.md)
 
+[Robot recoge Latas](./RobotRecogeLatas.md)
+
 * * *
 
 * * *
