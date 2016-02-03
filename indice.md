@@ -1,4 +1,4 @@
-# [Proyectos Escolares con Arduino](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=155369)
+# [Proyectos Escolares con Robots](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=155369)
 
 Curso del CEP de Granada
 
