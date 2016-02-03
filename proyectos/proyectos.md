@@ -45,4 +45,16 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 [Coche controlado con móvil](./cochemovil.md)
 
 * * *
+
+[Coche controlado con gestos de la mano](./cochemano.md)
+
+* * *
+
+[Máquina expendedora](./maquinaexpendedora)
+
+* * *
+
+[Plotter](./plotter.md)
+
+* * *
 [Elementos comunes](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/comunes.md)
