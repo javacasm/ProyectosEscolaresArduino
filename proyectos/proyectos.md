@@ -29,4 +29,12 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 [Granja](./Granja.md)
 
 * * *
+
+[Huerto](./Huerto.md)
+
+* * *
+
+[Física](./Fisica.md)
+
+* * *
 [Elementos comunes](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/comunes.md)
