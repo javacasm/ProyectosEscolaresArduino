@@ -20,9 +20,13 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 
 [Hexapodo](./Hexapodo.md)
 
+* * *
+
 [Robot recoge Latas](./RobotRecogeLatas.md)
 
 * * *
+
+[Granja](./Granja.md)
 
 * * *
 [Elementos comunes](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/comunes.md)
