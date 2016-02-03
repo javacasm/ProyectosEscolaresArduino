@@ -2,11 +2,14 @@
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
-## [Robótica Educativa: proyectos con arduino, 3D](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/Rob%C3%B3tica%20educativa-%20proyectos%20con%20Arduino%20y%203D.md)
+## [Proyectos Escolares con Robots](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=155369)
+
 ### Arduino
-## CEP Granada              Febrero 2015
+## CEP Granada              Febrero 2016
+
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 ## José Antonio Vacas  @javacasm
+
 [Presentación](https://swipe.to/1586cc)
 
 ***
@@ -65,7 +68,7 @@ Usamos bloques para definir los programas:
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
-## Parpadeo [Bitbloq](http://bitbloq.bq.com) 
+## Parpadeo [Bitbloq](http://bitbloq.bq.com)
 
 * LED encendido
 * Esperamos
@@ -111,7 +114,7 @@ Montaje en la placa de prototipos
 
 ![blink](http://4.bp.blogspot.com/-bSwcT88QabE/UVuMY29lHfI/AAAAAAAAAAw/wyLijXEmafk/s1600/01+Blinky_bb.png)
 
-Ejercicio: Cambiamos al pin 8 
+Ejercicio: Cambiamos al pin 8
 
 ¡¡Añadimos la resistencia!!
 
@@ -121,7 +124,7 @@ Ejercicio: Cambiamos al pin 8
 <!-- color: #fff -->
 <!-- font: centurygothic -->
 
-# [Bitbloq](http://bitbloq.bq.com) 
+# [Bitbloq](http://bitbloq.bq.com)
 ## Semáforo
 
 2 leds (rojo y verde) se alternan
@@ -180,7 +183,7 @@ Ejercicio: Cambiamos al pin 8
 	}
 	void loop()
 	{ int esperaVerde=1000;
-	  int esperaRojo=500; 
+	  int esperaRojo=500;
 
 	  digitalWrite(ledverde,LOW);
 	  digitalWrite(ledrojo,HIGH);
@@ -210,7 +213,7 @@ Usaremos el tipo de variable float
 
 * Calibramos viendo los extremos y el valor intermedio 3.3V
 
-[código](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/tree/master/codigo/voltimetro) 
+[código](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/tree/master/codigo/voltimetro)
 
 ***
 
