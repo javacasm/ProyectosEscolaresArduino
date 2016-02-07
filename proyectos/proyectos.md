@@ -6,15 +6,15 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 
 * * *
 
-[Globo sonda/Estación meteorológica](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/globo.md)
+[Globo sonda/Estación meteorológica](./globo.md)
 
 * * *
 
-[Robot móvil](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/robot.md)
+[Robot móvil](./robot.md)
 
 * * *
 
-[Invernadero](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/invernadero.md)
+[Invernadero](./invernadero.md)
 
 * * *
 
