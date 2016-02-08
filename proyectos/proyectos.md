@@ -50,7 +50,7 @@ Estos son los proyectos que iremos realinzando en la segunda parte del curso
 
 * * *
 
-[Máquina expendedora](./maquinaexpendedora)
+[Máquina expendedora](./maquinaexpendedora.md)
 
 * * *
 
