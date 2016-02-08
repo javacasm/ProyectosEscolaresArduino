@@ -1,5 +1,5 @@
 Hexapodo controlado por movil
 
 * Bluetooth
-* Baterias
-* servos
+* Baterías
+* Servos
