@@ -1,5 +1,7 @@
 # Huerto
 
+Huerto conectado a internet
+
 * Sensores de
   * temperatura
   * humedad
@@ -10,3 +12,4 @@
 * Relé
 * Bomba de agua
 * Alimentación
+* Ethernet
