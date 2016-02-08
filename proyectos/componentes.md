@@ -8,3 +8,17 @@
 * [Sensores presión](http://www.electan.com/sensor-fuerza-redondo-p-3106.html)
 * [Sensor flexión](http://www.electan.com/sensor-flexion-sparkfun-p-3135.html)
 * [Interruptores de contacto](http://www.electan.com/microruptor-final-recorrido-con-palanca-p-1428.html)
+
+
+# Herramientas
+* Soldador
+* Des-soldador
+* Estaño
+* Destornilladores pequeños
+* Destornilladores medianos
+* Pistola de plastico caliente
+* Bridas
+* Alicates: normales y de corte
+* Pelacables
+* Cutex
+* Tijeras
