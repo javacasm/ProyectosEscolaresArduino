@@ -1,6 +1,6 @@
-# Huerto
+# Semillero
 
-Huerto conectado a internet
+Semillero conectado a internet
 
 * Sensores de
   * temperatura
