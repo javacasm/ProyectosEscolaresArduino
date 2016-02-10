@@ -5,5 +5,5 @@
   * Shield de motores
   * Sensor ultrasonidos
   * Sensor proximidad
-* Modelo pinza
+## Modelo pinza
   * Servos pinza
