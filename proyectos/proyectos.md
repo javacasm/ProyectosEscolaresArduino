@@ -57,7 +57,7 @@ Estos son los proyectos que iremos realizando en el curso
 
 * * *
 
-[Plotter](./plotter.md)
+[Casa domótica](./casadomotica.md)
 
 * * *
 
