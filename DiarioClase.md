@@ -13,9 +13,18 @@ Nivel intermedio
 
 * * *
 
-### Semana 1:
+### Semana 1: 3-2-2016
+* Vemos los 3 proyectos realizados en la edición de 2015
+* Revisamos algunos proyectos en la web.
+* Los particpantes eligen sus proyectos.
 
-### Semana 2:
+
+### Semana 2: 10-2-2016
+* Los participantes cuentan lo que han visto de sus proyectos
+* Listado de componentes necesarios
+* Revisamos cómo utilizar librerías
+* Creación de un listado de librerías/ejemplos necesarios
+
 
 ### Semana 3:
 
