@@ -21,7 +21,7 @@ Estos son los proyectos que iremos realizando en el curso
 
 * * *
 
-[Hexapodo](./Hexapodo.md)
+[Vehiculo oruga](./oruga.md)
 
 * * *
 
@@ -53,7 +53,7 @@ Estos son los proyectos que iremos realizando en el curso
 
 * * *
 
-[Máquina expendedora](./maquinaexpendedora.md)
+[Coche con camara controlado por bluetooth](./droneCamaraMovil.md)
 
 * * *
 
