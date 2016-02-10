@@ -5,6 +5,8 @@
   * humedad
   * lluvia
   * presión
-  * pluviométro  
+
+* LCD
+* Ethernet
 
 Los sensores se basan en el [globo meteorológico](./globo.md)
