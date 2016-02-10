@@ -15,6 +15,8 @@
 * 3 x [Motor DC (M20 con reductora)](http://www.electan.com/mini-motor-reductor-metalico-101-p-2968.html)
 * 2 x [Controladoras (no shields)](http://www.electan.com/driver-l298-doble-puente-para-motores-p-6280.html)
 * 2 x [Controladora baratas](http://www.electan.com/driver-l9110-doble-puente-para-motores-p-6281.html)
+* 1 x [Micrófono](http://www.electan.com/modulo-microfono-con-amplificador-conectar-listo-analogico-p-2995.html)
+* 2 x [Sensor nivel agua](http://www.electan.com/modulo-sensor-agua-conectar-listo-p-3021.html)
 
 # Herramientas
 * Soldador
