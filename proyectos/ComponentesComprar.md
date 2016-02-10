@@ -12,6 +12,7 @@
 * [Módulo 8 relés](http://www.electan.com/modulo-reles-p-6284.html)
 * [ZigBee]
 * 3 x [Motor DC ] (M20 con reductora)
+* 2 Controladoras (no shields)
 
 # Herramientas
 * Soldador
