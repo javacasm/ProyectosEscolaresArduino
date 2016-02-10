@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar. 
+Se medirán y registrarán variables meteorológicas: temperatura, humedad ambiental y humedad del suelo para decidir si se activan sistemas de riego o de ventilación. Los datos se guardan en una tarjeta SD de formato micro que puede ser leída desde un ordenador donde se podrán analizar.
 
 En este proyecto controlaremos 2 actuadores:
 
@@ -17,9 +17,7 @@ En este proyecto controlaremos 2 actuadores:
 * Sensor de temperatura y humedad [producto](http://www.seeedstudio.com/wiki/Grove_-_Temperature_and_Humidity_Sensor_Pro)
 ![sensor](http://www.seeedstudio.com/wiki/images/thumb/d/d1/Temp_humi_pro.jpg/400px-Temp_humi_pro.jpg)
 
-* Control de motores [pagina](http://www.dfrobot.com/wiki/index.php?title=Arduino_Motor_Shield_(L298N)_(SKU:DRI0009))
-![control](http://www.dfrobot.com/wiki/images/1/1e/Arduino_Shield3.png)
-
+* [Control de motores](./MotorDC.md) 
 
 ## Modelo
 
@@ -46,6 +44,5 @@ Soporte para ventilador de PC de 80x80
 
 ## Librerías
 
-* [DHT22](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor) 
+* [DHT22](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
 * El sensor de humedad de suelo no necesita librería, basta con hacer un analogRead del pin analógico donde está conectado.
-

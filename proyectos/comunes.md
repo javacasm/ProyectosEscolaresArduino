@@ -5,7 +5,7 @@
 
 ### Problemas con las tarjetas
 
-* Las tarjetas SD son enórmemente sensibles, si se produce un error puede que haya que volver a formatearlas. 
+* Las tarjetas SD son enórmemente sensibles, si se produce un error puede que haya que volver a formatearlas.
 * Se deben formatear siempre en FAT32
 * Las tarjetas más antiguas suelen funcionar mejor porque utilizan menores velocidades
 * Dado que es posible que se produzcan errores de acceso o de escritura, nuestro programa siempre contemplará esa posibilidad, realizando el resto de tareas en caso de error. (ver el ejemplo Datalogger de la librería SD para el tratamiento de errores). En general se tratará así:
@@ -27,6 +27,12 @@
 ## Alimentación solar
 
 Se ha renunciado al uso de energía solar porque se requería de una batería y paneles de excesivo tamaño. (ver ejemplo)
+
+## [Control Bluetooth](./Bluetooth.md)
+
+## [Relé](./Rele.md)
+
+## [Control de motor DC](./MotorDC.md)
 
 ## Programación
 

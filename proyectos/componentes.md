@@ -8,6 +8,10 @@
 * [Sensores presión](http://www.electan.com/sensor-fuerza-redondo-p-3106.html)
 * [Sensor flexión](http://www.electan.com/sensor-flexion-sparkfun-p-3135.html)
 * [Interruptores de contacto](http://www.electan.com/microruptor-final-recorrido-con-palanca-p-1428.html)
+* [Rele](http://www.electan.com/modulo-rele-conectar-listo-p-3027.html)
+* [Módulo 4 relés](http://www.electan.com/modulo-reles-p-6283.html)
+* [Módulo 8 relés](http://www.electan.com/modulo-reles-p-6284.html)
+* [Shield de motor DC](http://www.electan.com/arduino-shield-motor-dfrobot-p-3158.html)
 
 
 # Herramientas

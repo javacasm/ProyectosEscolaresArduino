@@ -6,3 +6,5 @@
   * lluvia
   * presión
   * pluviométro  
+
+Los sensores se basan en el [globo meteorológico](./globo.md)

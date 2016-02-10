@@ -13,6 +13,8 @@ Nivel intermedio
 
 * * *
 
+## [Proyectos](./proyectos/proyectos.md)
+
 ## Temario
 
 Podemos estructurar en los siguientes apartados
