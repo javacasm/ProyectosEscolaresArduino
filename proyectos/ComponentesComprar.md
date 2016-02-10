@@ -10,6 +10,8 @@
 * [Interruptores de contacto](http://www.electan.com/microruptor-final-recorrido-con-palanca-p-1428.html)
 * [Módulo 4 relés](http://www.electan.com/modulo-reles-p-6283.html)
 * [Módulo 8 relés](http://www.electan.com/modulo-reles-p-6284.html)
+* [ZigBee]
+* 3 x [Motor DC ] (M20 con reductora)
 
 # Herramientas
 * Soldador
