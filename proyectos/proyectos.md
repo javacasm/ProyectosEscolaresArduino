@@ -61,4 +61,8 @@ Estos son los proyectos que iremos realizando en el curso
 
 * * *
 
+[Sonómetro](./sonometro.md)
+
+* * *
+
 [Elementos comunes](https://github.com/javacasm/Robotica-Educativa-Arduino-y-3D/blob/master/proyectos/comunes.md)
