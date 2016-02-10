@@ -33,7 +33,7 @@ Estos son los proyectos que iremos realizando en el curso
 
 * * *
 
-[Huerto](./Huerto.md)
+[Semillero](./huerto.md)
 
 * * *
 
