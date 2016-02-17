@@ -15,6 +15,8 @@ Nivel intermedio
 
 ## [Proyectos](./proyectos/proyectos.md)
 
+## [Foros](http://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/view.php?id=84664)
+
 ## Temario
 
 Podemos estructurar en los siguientes apartados
