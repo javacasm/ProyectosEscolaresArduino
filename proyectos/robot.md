@@ -2,6 +2,8 @@
 
 ![robot](https://lh6.googleusercontent.com/-0FRQ2C8_RGE/VTpwbOIYmpI/AAAAAAAA4w8/bBxwFRr3z4M/w1014-h761-no/IMG_20150423_202826.jpg)
 
+[Otro Ejemplo](http://www.leantec.es/blog/13_Robot-autonomo-esquiva-objetos.html)
+
 ## Descripción
 
 Robot móvil: Un sencillo robot móvil, con 2 motores y ruedas, dotado de sensor de distancia. Podremos realizar un mapa de la zona en la que se encuentra, detectando y evitando obtáculos en su camino. Los datos del movimiento se almacenan en un tarjeta SD para su posterior análisis.
