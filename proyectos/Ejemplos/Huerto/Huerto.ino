@@ -15,8 +15,10 @@ int pinVentilador=10;
 DHT dht(pinSensorDHT, DHTTYPE);
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(9600);                         // Configuramos la conexión con el PC
   
+  pinMode(pinVentilador,OUTPUT);
+  pinMode(pinBombaRiego,OUTPUT);
   dht.begin();
 }
 
