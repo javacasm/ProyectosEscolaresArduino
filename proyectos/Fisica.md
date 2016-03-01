@@ -5,3 +5,28 @@
 * [Pulsadores, Arduino,  Leds, Cables, placa de conexión](http://www.electan.com/arduino-uno-pack-con-kit-basico-arduino-p-3056.html)
 
 * [Baterías](http://www.electan.com/power-bank-2600-mah-p-6508.html)
+
+## Montaje
+
+Usaremos el siguiente montaje:
+
+![hardware](./imagenes/Fisica-Hardware.png)
+
+## Programa
+
+Se desarrolló un [programa Bitbloq](./Fisica.json) para hacer las medidas.
+
+(El [programa Arduino](./Fisica.ino) equivalente)
+
+
+
+### Funciones
+![variables](./imagenes/Fisica-Funciones.png)
+
+### Configuración
+
+![setup](./imagenes/Fisica-Setup.png)
+
+### Bucle central
+
+![loop](./imagenes/Fisica-Loop.png)
