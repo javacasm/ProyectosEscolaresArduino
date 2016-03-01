@@ -16,7 +16,9 @@ Usaremos el siguiente montaje:
 
 Se desarrolló un [programa Bitbloq](./Fisica.json) para hacer las medidas.
 
-(El [programa Arduino](./Fisica.ino) equivalente)
+([Programa Arduino](./Ejemplos/Fisica/Fisica.ino) equivalente al de bitbloq)
+
+([Programa Arduino](././Ejemplos/FisicaLCD/FisicaLCD.ino) para el LCD que usamos)
 
 
 
