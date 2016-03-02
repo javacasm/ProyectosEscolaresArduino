@@ -19,16 +19,17 @@ bqSoftwareSerial puerto_serie_0(0,1,9600);
 
 // Comprobamos si se ha pulsado el botón
 void CheckReset ()
-{if(digitalRead(12) == 1)
 {
-  // Apagamos los dos leds
-  digitalWrite(led_Fin_9,LOW);
-  digitalWrite(led_inicio_3,LOW);
-  /* Borramos la segunda línea*/
-  lcd_0.setCursor(0,0);
-  lcd_0.print("Cinematica!!!");
-  lcd_0.setCursor(0,1);
-  lcd_0.print("                                                    "); // Borramos la 2ª línea
+  if(digitalRead(boton_0) == 1) // Si se pulsa el botón reseteamos el proceso
+  {
+    // Apagamos los dos leds
+    digitalWrite(led_Fin_9,LOW);
+    digitalWrite(led_inicio_3,LOW);
+    /* Borramos la segunda línea*/
+    lcd_0.setCursor(0,0);
+    lcd_0.print("Cinematica!!!");
+    lcd_0.setCursor(0,1);
+    lcd_0.print("                                                    "); // Borramos la 2ª línea
   }
 }
 
